@@ -1,13 +1,13 @@
 # Titre du jeu
 
-Projet conçu en équipe avec : Vencia Bozieux]
+Projet conçu en équipe avec : [Vencia Bozieux]
 
 ## Le public cible
 
 - Type de joueur visé (fonceur ou explorateur) : explorateur (tu dois explorer le monde pour trouver les joueurs et les tuer)
 - Catégorie et genre : Action, tir et combat
 - Le concept en une phrase (un personnage, un objectif, un obstacle) :
-  Objectif: C'est la fin du monde et il reste x de personnes sur Terre. Les joueurs doivent s'entretuer pour qu'il y aille un dernier survivant qui renouvele le monde.
+  Objectif: C'est la fin du monde et il reste x de personnes sur Terre. Les joueurs doivent s'entretuer pour qu'il y aille un dernier survivant qui renouvelle le monde.
   Obstacle: trouver des objets pour traquer les joueurs et s'affronter contre eux selon leur niveau de difficulté.
   Personnage: Le personnage principale est mysterieux, on ne sait pas à quoi il ressemble sous ses habits. One ne sais pas si il est vraiment humain. Il n'a pas de noms et possède des habilités spéciales. 
 
@@ -16,7 +16,8 @@ Projet conçu en équipe avec : Vencia Bozieux]
 - Objectif du jeu : tuer les joueurs, renouveler la Terre
 - Condition de victoire : que tous tes ennemis soient morts.
 - Condition de défaite : il faut qu'on te tue.
-- Mécanique cœur : 
+- Mécanique cœur :
+  Le joueur utilise une carte pour choisir le prochain niveau. Les niveaux sont linéaires et à la fin ont y trouve un indice vers un autre boss. Le repère de l'Étranger sert d'intermédiaire entre les niveaux. On peut y améliorer ses armes et son équipement et intéragir avec le faucon et d'autres personnages. L'Étranger utilise des armes à feu comme armes principales. Les envirronements utilisent un style platformer pour les combats. les ennemis sont divisés en classe et chaque boss est différent. Après avoir tuer des boss ou des mini boss, le joueur peut développer des habilités spéciales. La difficulté augmente au fur et à mesure
 - Mécanique secondaire : ...
 - Structure (progressif ou émergent, expliquez en quelques mots) : ...
 - Prototype Scratch (facultatif) : [lien du projet](lien)
