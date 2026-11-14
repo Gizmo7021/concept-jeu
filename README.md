@@ -18,8 +18,8 @@ Projet conçu en équipe avec : [Vencia Bozieux]
 - Condition de défaite : il faut qu'on te tue.
 - Mécanique cœur :
   Le joueur utilise une carte pour choisir le prochain niveau. Les niveaux sont linéaires et à la fin ont y trouve un indice vers un autre boss. Le repère de l'Étranger sert d'intermédiaire entre les niveaux. On peut y améliorer ses armes et son équipement et intéragir avec le faucon et d'autres personnages. L'Étranger utilise des armes à feu comme armes principales. Les envirronements utilisent un style platformer pour les combats. les ennemis sont divisés en classe et chaque boss est différent. Après avoir tuer des boss ou des mini boss, le joueur peut développer des habilités spéciales. La difficulté augmente au fur et à mesure
-- Mécanique secondaire : ...
-- Structure (progressif ou émergent, expliquez en quelques mots) : ...
+- Mécanique secondaire : dossiers et texts cachés à travers les niveaux qui raconte l'histoire de l'Apocalypse. Skins (armes et appenrences) légendaires à trouvé. Objets de collection pour personnaliser le repère
+- Structure (progressif ou émergent, expliquez en quelques mots) : progressif. Au fur et à mesure qu'on avance dans le jeu, le joueur déverouille de nouvelles abilités
 - Prototype Scratch (facultatif) : [lien du projet](lien)
 
 ## Les phases de jeu
