@@ -40,10 +40,10 @@ Projet conçu en équipe avec : [Vencia Bozieux]
 
 ## Le fun et le flow
 
-- La source du fun pour le type de joueur visé (sans utiliser le mot *fun*) : ...
-- Le flow (équilibre défi / capacités) : ...
-- La rétroaction (son, lumière, animation) : ...
-- La rejouabilité (pourquoi recommencer) : ...
+- La source du fun pour le type de joueur visé (sans utiliser le mot *fun*) : découvrir tous les secrets et bonus cachés, combattre des ennemis cachés, dévérouiller des compétences et de l'équipement, progresser dans l'histoire
+- Le flow (équilibre défi / capacités) : plus le joueur devient bon, plus les ennemis et les boss sont difficiles à battre et plus il obtient de récompenses pour s'améliorer
+- La rétroaction (son, lumière, animation) : Lorsque le joueur gagne un combat normal, la musique redevient calme et les cadavres disparaissent. Lorsqu'il gagne un mini boss fight, le mini boss s'écroule à terre et le joueur peut le looter. Lorsque le joueur gagne un boss fight, il y a une cinématique de l'Étranger en train d'achever le boss. Lorsque l'on fini le niveau, il y une petite cinématique, Lorsque le joueur perd au combat, une image sur fond noir du masque de l'Étranger à terrer apparait à l'écran avec les mots "Game Over". Lorsque l'on meurt lors d'un mini boss fight, il y a une animation de l'Étranger en train de de se faire massacrer. Lorsqu'on meurt lors d'un boss fight, il y a une cinématique que l'Étranger se fesant achevé
+- La rejouabilité (pourquoi recommencer) : Découvrire tous les secrets manqués, jouer l'Étranger sous un autre angle
 
 ## L'histoire
 
