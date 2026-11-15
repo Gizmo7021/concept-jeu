@@ -24,11 +24,19 @@ Projet conçu en équipe avec : [Vencia Bozieux]
 
 ## Les phases de jeu
 
-- La boucle de jeu (action → rétroaction → récompense) : ...
-- Phase 1 : ... (règles, contrôles, interface)
-    - Transition vers la phase 2 : ...
-- Phase 2 : ... (règles, contrôles, interface)
-    - Transition vers la phase suivante ou la fin : ...
+- La boucle de jeu (action → rétroaction → récompense) : choisi un niveau -> exploration -> combat -> amélioration
+- Phase 1 : choix de niveau. Le joueur clique sur la carte pour l'afficher. Seul le curseur peut être bougé. Lorsqu'on le positionne au niveau d'un endroit, une court description apparait. Le joueur doit confirmer son choix pour y avoir accès.
+    - Transition vers la phase 2 : fade-out
+- Phase 2 : exploration. le joueur se retrouve dans un environnement linéaire où il peut seulement aller de droite à gauche. Il peut sauter et grimper sur des bâtiments et platformes. Il y a quelques ennemis ici et là. Le joueur doit s'aligner avec eux pour leur tirer dessus. Il est aussi possible pour le joueur d'aller dans d'autres zones en cliquant sur des passages et des portes ouvertes.
+    - Transition vers la phase suivante: musique qui change
+- Phase 3 : combat. Le joueur se retrouve dans un endroit ou on ne peut pas aller trop loin ni reculer. Il n'y a aussi plus aucun passage pour s'échapper. Il est encore possible de faire du parkour et les mécaniques de tirs sont les mêmes. les ennemis sont plus difficiles à battre que ceux dans les phases d'exploration. Les ennemis dropent des munitions et des trousses de soin une fois bâtus
+    - Transition vers la phase suivante: musique redevient normal, le sang qui a giclé partout disparaît
+- Phase 4 : retour au bercail. Lorsqu'un niveau normal est terminé, il y a une petite cinématique suivi par un fade-out. Après, on est de retour à notre base. Là, on peut améliorer notre équipement, lire les documents qu'on a trouvé et reskinner notre personnage et nos armes
+    - Transition vers la phase 1: on clique sur la carte qui s'affiche par la suite
+- Phase 5 : mini-boss fight: avant d'arriver au boss finale, on doit battre un mini boss. On sait qu'on s'apprête à se battre contre un mini boss lorsque la caméra bouge vers lui lorsqu'on entre dans une zone, le boss nous attend aussi. Les mini boss sont plus dûr à battre que des ennemis régulier. Leurs arènes sont plus petite. Les tuer nous donne de l'EXP et un indice sur l'emplacement du boss
+    - Transition vers la phase suivante: récompenses
+- Phase 6 : boss fight: lorsqu'on arrive au boss final, il y a une cinématique où ce dernier parle à l'Étranger. Les boss sont difficiles à battre car ils sont dans un endroit clos et ont plusieurs habilités avancé. Lorsqu'on bat un boss, on obtient beaucoup de points pour améliorer notre équipement, de l'EXP et de nouvelles armes et armures
+    - Transition vers la phase suivante: cinématique
 
 ## Le fun et le flow
 
