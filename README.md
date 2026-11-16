@@ -47,13 +47,13 @@ Projet conçu en équipe avec : [Vencia Bozieux]
 
 ## L'histoire
 
-- Le personnage principal (description, désir, besoin, habiletés spéciales) : L'Étranger est un individu mystérieux et muet. Il porte un masque à gaz et de l'équipement militaire. Son désir: recréer la Terre de la volonté qu'on ne lui a jamais donné. Besoin: arrêter de vivre dans la violence d'un monde déjà détruit. Habiletés spéciales : utilisation d'armes à feu, il aspire les habiletés des boss qu'il tue, ex: il peut libérer une onde choc qui tue instannément tous ses ennemis
-- Le début (phase de jeu ou transition associée) : ...
-- Le milieu (phase de jeu ou transition associée) : ...
-- Le revirement (phase de jeu ou transition associée) : ...
-- La fin (phase de jeu ou transition associée) : ...
-- L'univers (où, quand, un élément de folklore) : ...
-- Comment la mécanique cœur exprime le désir du personnage : ...
+- Le personnage principal (description, désir, besoin, habiletés spéciales) : L'Étranger est un individu mystérieux et muet. Il porte un masque à gaz et de l'équipement militaire. Son désir: recréer la Terre de la volonté qu'on ne lui a jamais donné. Besoin: arrêter de vivre dans la violence d'un monde déjà détruit. Habiletés spéciales : utilisation d'armes à feu, il aspire les habiletés des boss qu'il tue, ex: Fureur, Liquifier, Renforts, Absorption, Onde Mortelle, Illusion, En Flamme, Vague Scélérate
+- Le début (phase de jeu ou transition associée) : L'Étranger commence à chercher des boss à tuer. Son objectif reste mystérieux et il commence à gagner en habilités. améliorations et EXP
+- Le milieu (phase de jeu ou transition associée) : De plus en plus de boss s'adressent à l'Étranger comme quelque chose d'autres qu'un humain. Certains boss semble le connaître et on comprend de mieux en mieux l'origine de l'Apocalypse
+- Le revirement (phase de jeu ou transition associée) : Après avoir tué le dernier boss, l'Étranger retire son masque et on réalise qu'il n'est pas huamin
+- La fin (phase de jeu ou transition associée) : Dans la shot finale, on voit l'Étranger se tenant devant une tempête, son seul dialogue laisse à dire qu'il a fait une ascension divine
+- L'univers (où, quand, un élément de folklore) : Sur Terre, après l'Apocalypse, des extraits de l'Apocalypse de Jean
+- Comment la mécanique cœur exprime le désir du personnage : C'est seulement en assimilant les pouvoirs de ses ennemis que l'Étranger peut devenir une sorte de Dieu
 
 ## L'esthétique et l'interface
 
