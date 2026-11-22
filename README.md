@@ -68,7 +68,7 @@ Projet conçu en équipe avec : [Vencia Bozieux]
 
 ## Les ressources
 
-![Image de référence](ressource.jpg)
+![<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91047c8e-e9ff-451e-9eb8-5c62ab23bc67" />](<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f7b16b52-61d5-4e9d-b11e-3bf6f89f0ade" />)
 
 - Son d'ambiance : [titre du son](lien)
 - Crédits :
