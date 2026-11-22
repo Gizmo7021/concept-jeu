@@ -64,10 +64,10 @@ Projet conçu en équipe avec : [Vencia Bozieux]
 ](https://www.reddit.com/r/PixelArt/comments/12qcajb/2d_shooter_pixel_mockup/?captcha=1), [<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/30b749aa-253f-43fe-a1fc-08647836c7f3" />
 ](https://www.playstation.com/en-id/editorial/great-platformers-on-ps4/)
 - L'ambiance sonore : retro, 8bit, dull
-- Les objets jouables : ...
+- Les objets jouables : armes à feu, munitions, armures, trousses de soins. habilité
 - Croquis de l'interface :
 
-![Interface](interface.jpg)
+![Menu](interface.jpg)
 
 ## Les ressources
 
