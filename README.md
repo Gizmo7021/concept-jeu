@@ -1,4 +1,4 @@
-# Titre du jeu
+# Revelations
 
 Projet conçu en équipe avec : [Vencia Bozieux]
 
@@ -67,7 +67,8 @@ Projet conçu en équipe avec : [Vencia Bozieux]
 - Les objets jouables : armes à feu, munitions, armures, trousses de soins. habilité
 - Croquis de l'interface :
 
-![Menu](interface.jpg)
+![Menu (fait par Gemini)](<img width="1376" height="768" alt="Gemini_Generated_Image_6iur9q6iur9q6iur" src="https://github.com/user-attachments/assets/05cd414f-7b10-4d4e-a821-31b0ddfaafb1" />
+)
 
 ## Les ressources
 
