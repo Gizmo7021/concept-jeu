@@ -59,7 +59,7 @@ Projet conçu en équipe avec : [Vencia Bozieux]
 
 - Le style visuel (et pourquoi il convient à votre jeu) : pixel art. La consigne demandait un jeu 2D et j'ai tout de suite pensé à un jeu rétro
 - La palette de couleurs : gris, brun, noir, jaune paille, vert olive
-- Trois images de référence : [<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91047c8e-e9ff-451e-9eb8-5c62ab23bc67" />](https://loovgames.itch.io/apocalyptic-pixel-art-asset-pack-with-houses-characters-trees-tilesets), [<img width="1640" height="974" alt="image" src="https://github.com/user-attachments/assets/0e96c30f-b9a8-4230-9bd1-a74e4800a998" />](https://www.reddit.com/r/PixelArt/comments/12qcajb/2d_shooter_pixel_mockup/?captcha=1), [<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/8c5c126e-b0c1-4ad4-be8c-4644c64a6946" />](https://www.playstation.com/en-id/editorial/great-platformers-on-ps4/)
+- Trois images de référence : [Image 1](https://loovgames.itch.io/apocalyptic-pixel-art-asset-pack-with-houses-characters-trees-tilesets), [Image 2](https://www.reddit.com/r/PixelArt/comments/12qcajb/2d_shooter_pixel_mockup/?captcha=1), [Image 3](https://www.playstation.com/en-id/editorial/great-platformers-on-ps4/)
 - L'ambiance sonore : ...
 - Les objets jouables : ...
 - Croquis de l'interface :
@@ -72,5 +72,5 @@ Projet conçu en équipe avec : [Vencia Bozieux]
 
 - Son d'ambiance : [titre du son](lien)
 - Crédits :
-    - « Titre de l'image », par ..., [Source](lien), [Licence](lien)
-    - « Titre du son », par ..., [Source](lien), [Licence](lien)
+    - « Post-Apocalyptic Assets Pack », par ..., [Source](https://loovgames.itch.io/apocalyptic-pixel-art-asset-pack-with-houses-characters-trees-tilesets), [Licence](lien)
+    - « Titre du son », par ..., [Source](https://loovgames.itch.io/apocalyptic-pixel-art-asset-pack-with-houses-characters-trees-tilesets), [Licence](https://loovgames.itch.io/)
