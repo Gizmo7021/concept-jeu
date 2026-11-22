@@ -63,7 +63,7 @@ Projet conçu en équipe avec : [Vencia Bozieux]
 ](https://loovgames.itch.io/apocalyptic-pixel-art-asset-pack-with-houses-characters-trees-tilesets), [<img width="1640" height="974" alt="image" src="https://github.com/user-attachments/assets/01e89733-bfcd-45f1-9f0b-f1861edd3836" />
 ](https://www.reddit.com/r/PixelArt/comments/12qcajb/2d_shooter_pixel_mockup/?captcha=1), [<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/30b749aa-253f-43fe-a1fc-08647836c7f3" />
 ](https://www.playstation.com/en-id/editorial/great-platformers-on-ps4/)
-- L'ambiance sonore : ...
+- L'ambiance sonore : retro, 8bit, dull
 - Les objets jouables : ...
 - Croquis de l'interface :
 
@@ -73,7 +73,7 @@ Projet conçu en équipe avec : [Vencia Bozieux]
 
 ![Images de référence](https://img.itch.zone/aW1nLzIyNzQyODMzLnBuZw==/100x100%23c/CiPlOo.png)
 
-- Son d'ambiance : [titre du son](lien)
+- Son d'ambiance : [chill 8-bit lofi mix - post apocalyptic vibes to fall asleep](https://www.youtube.com/watch?v=6YnoN3hTYXM)
 - Crédits :
     - « Post-Apocalyptic Assets Pack », par Loovgames, [itch.io](https://loovgames.itch.io/apocalyptic-pixel-art-asset-pack-with-houses-characters-trees-tilesets), [CC BY Loovgames](https://www.loovgames.com/)
-    - « Titre du son », par , [Source](lien), [Licence](lien)
+    - « chill 8-bit lofi mix - post apocalyptic vibes to fall asleep », par The Last Ember, [Youtube](https://www.youtube.com/watch?v=6YnoN3hTYXM), [C The Last Ember](https://www.youtube.com/@TheLastEmber-s1v)
