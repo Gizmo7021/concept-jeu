@@ -59,7 +59,10 @@ Projet conçu en équipe avec : [Vencia Bozieux]
 
 - Le style visuel (et pourquoi il convient à votre jeu) : pixel art. La consigne demandait un jeu 2D et j'ai tout de suite pensé à un jeu rétro
 - La palette de couleurs : gris, brun, noir, jaune paille, vert olive
-- Trois images de référence : [Image 1](https://loovgames.itch.io/apocalyptic-pixel-art-asset-pack-with-houses-characters-trees-tilesets), [Image 2](https://www.reddit.com/r/PixelArt/comments/12qcajb/2d_shooter_pixel_mockup/?captcha=1), [Image 3](https://www.playstation.com/en-id/editorial/great-platformers-on-ps4/)
+- Trois images de référence : [<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee08cc2e-4e60-42b0-a774-63252ff3630d" />
+](https://loovgames.itch.io/apocalyptic-pixel-art-asset-pack-with-houses-characters-trees-tilesets), [<img width="1640" height="974" alt="image" src="https://github.com/user-attachments/assets/01e89733-bfcd-45f1-9f0b-f1861edd3836" />
+](https://www.reddit.com/r/PixelArt/comments/12qcajb/2d_shooter_pixel_mockup/?captcha=1), [<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/30b749aa-253f-43fe-a1fc-08647836c7f3" />
+](https://www.playstation.com/en-id/editorial/great-platformers-on-ps4/)
 - L'ambiance sonore : ...
 - Les objets jouables : ...
 - Croquis de l'interface :
@@ -72,5 +75,5 @@ Projet conçu en équipe avec : [Vencia Bozieux]
 
 - Son d'ambiance : [titre du son](lien)
 - Crédits :
-    - « Post-Apocalyptic Assets Pack », par ..., [Source](https://loovgames.itch.io/apocalyptic-pixel-art-asset-pack-with-houses-characters-trees-tilesets), [Licence](lien)
-    - « Titre du son », par ..., [Source](https://loovgames.itch.io/apocalyptic-pixel-art-asset-pack-with-houses-characters-trees-tilesets), [Licence](https://loovgames.itch.io/)
+    - « Post-Apocalyptic Assets Pack », par Loovgames, [itch.io](https://loovgames.itch.io/apocalyptic-pixel-art-asset-pack-with-houses-characters-trees-tilesets), [CC BY Loovgames](https://www.loovgames.com/)
+    - « Titre du son », par , [Source](lien), [Licence](lien)
