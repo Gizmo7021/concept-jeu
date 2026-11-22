@@ -57,9 +57,10 @@ Projet conçu en équipe avec : [Vencia Bozieux]
 
 ## L'esthétique et l'interface
 
-- Le style visuel (et pourquoi il convient à votre jeu) : ...
-- La palette de couleurs : ...
-- Trois images de référence : [image 1](lien), [image 2](lien), [image 3](lien)
+- Le style visuel (et pourquoi il convient à votre jeu) : pixel art. La consigne demandait un jeu 2D et j'ai tout de suite pensé à un jeu rétro
+- La palette de couleurs : gris, brun, noir, jaune paille, vert olive
+- Trois images de référence : [<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91047c8e-e9ff-451e-9eb8-5c62ab23bc67" />
+](https://loovgames.itch.io/apocalyptic-pixel-art-asset-pack-with-houses-characters-trees-tilesets), [image 2](lien), [image 3](lien)
 - L'ambiance sonore : ...
 - Les objets jouables : ...
 - Croquis de l'interface :
