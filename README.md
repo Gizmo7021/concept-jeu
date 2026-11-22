@@ -68,8 +68,7 @@ Projet conçu en équipe avec : [Vencia Bozieux]
 
 ## Les ressources
 
-![Images de référence](<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/062acb00-4dda-4419-a542-03371d252152" />
-)
+![Images de référence](https://img.itch.zone/aW1nLzIyNzQyODMzLnBuZw==/100x100%23c/CiPlOo.png)
 
 - Son d'ambiance : [titre du son](lien)
 - Crédits :
