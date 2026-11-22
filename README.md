@@ -67,8 +67,7 @@ Projet conçu en équipe avec : [Vencia Bozieux]
 - Les objets jouables : armes à feu, munitions, armures, trousses de soins. habilité
 - Croquis de l'interface :
 
-![Menu (fait par Gemini)](<img width="1376" height="768" alt="Gemini_Generated_Image_6iur9q6iur9q6iur" src="https://github.com/user-attachments/assets/05cd414f-7b10-4d4e-a821-31b0ddfaafb1" />
-)
+![Menu (fait par Gemini)](https://gemini.google.com/app/2ae46b73656a48c1?pli=1)
 
 ## Les ressources
 
